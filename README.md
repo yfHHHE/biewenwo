@@ -12,6 +12,6 @@ git clone https://github.com/yfHHHE/biewenwo.git ~/.claude/skills/biewenwo
 
 ## 用法
 
-正常用就行。重复到第三遍，它会自己出来。
+正常用就行。重复到第三遍，它会自己出来。出不来你也别问我。
 
 想手动叫它，就说“别问我”。
